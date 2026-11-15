@@ -1,0 +1,16 @@
+{
+    "id": "ip-bans",
+    "name": "IP Bans",
+    "author": "August",
+    "version": "1.0.0",
+    "description": "Permanently ban users by IP address until an admin unbans them",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "Custom\\IpBans",
+    "class": "IpBansPlugin",
+    "panels": ["admin"],
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
