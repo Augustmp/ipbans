@@ -1,7 +1,7 @@
 {
     "id": "ip-bans",
     "name": "IP Bans",
-    "author": "August",
+    "author": "Frostproof Hosting",
     "version": "1.0.0",
     "description": "Permanently ban users by IP address until an admin unbans them",
     "category": "plugin",
